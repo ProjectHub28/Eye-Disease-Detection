@@ -1,0 +1,5 @@
+{
+  "name": "AI Eye Disease Detection",
+  "description": "An AI-powered application that analyzes eye images to detect potential diseases, provides a preliminary diagnosis, and highlights areas of concern. This tool is for informational purposes and is not a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
